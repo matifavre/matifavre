@@ -22,6 +22,5 @@
 - HTML
 
 ### 📫 How to reach me:
-* ✨ <a href='https://www.linkedin.com/in/agusruidiaz/' target='_blank'>Linkedin</a>
-* ✨ <a href='https://agusruidiazgd.netlify.app/' target='_blank'>My Website</a>
-* ✨ <a href='mailto:agusruidiaz@hotmail.com' target='_blank'>Mail</a>
+* ✨ <a href='https://www.linkedin.com/in/matiasfavre/' target='_blank'>Linkedin</a> 
+* ✨ <a href='mailto:favrematias@gmail.com' target='_blank'>Mail</a>
