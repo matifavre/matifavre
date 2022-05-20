@@ -4,11 +4,11 @@
 
 <img src="https://media3.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47yj7w00fpon03xpboxda4tn67cxkua1k0fuok9qxg&rid=giphy.gif&ct=g" alt="git" align="right" width="80%"/>
 
-🔭 I’m currently working in a Telemedicine App as a React - React Native Dev. 
+🔭 I’m currently working as a Freelance Product Manager/Tech Lead and looking for new opportunities 
 
-🌎 Also I am developing a prototype of an App to help people to organize their trips.
+🌎 Also I am co-developing a prototype of an App to help people to organize their trips.
 
-🌱 I’m currently learning React to become a React Dev!
+🌱 I’m currently learning React to become a React Dev !
 
 ### I'm currently using these technologies:
 - Python (Keras,Matlib,Numpy,TensorFlow)
