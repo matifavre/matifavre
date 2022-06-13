@@ -2,7 +2,7 @@
 
 
 
-<img src="https://media3.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47yj7w00fpon03xpboxda4tn67cxkua1k0fuok9qxg&rid=giphy.gif&ct=g" alt="git" align="right" width="80%"/>
+<img src="https://media3.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47yj7w00fpon03xpboxda4tn67cxkua1k0fuok9qxg&rid=giphy.gif&ct=g" alt="git" align="center" width="50%"/>
 
 🔭 I’m currently working as a Freelance Product Manager/Tech Lead and looking for new opportunities 
 
