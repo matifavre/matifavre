@@ -12,14 +12,16 @@
 
 ### I'm currently using these technologies:
 - Python (Keras,Matlib,Numpy,TensorFlow)
+- React
 - SQL/PostgreSQL
 - Solidity
 - Ethereum (Web3)
 - Node.JS
+- Express
 - MySQL
 - JavaScript
 - CSS
-- HTML
+- HTML 5 
 
 ### 📫 How to reach me:
 * ✨ <a href='https://www.linkedin.com/in/matiasfavre/' target='_blank'>Linkedin</a> 
